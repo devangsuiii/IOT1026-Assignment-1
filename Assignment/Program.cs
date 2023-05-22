@@ -27,7 +27,7 @@
         public static int AskForNumber(string text)
         {
             string? userInput;
-            Console.Write(text);
+                        Console.Write(text);
             do
             {
                 try
