@@ -7,7 +7,7 @@
 	<br/>
     <a href="https://codecov.io/gh/devangsuiii/IOT1026-Assignment-1" > 
     <img src="https://codecov.io/gh/devangsuiii/IOT1026-Assignment-1/branch/main/graph/badge.svg?token=JS0857X5JD"/>
-	<img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">	s
+	<img title="MIT License" alt="license" src="https://img.shields.io/badge/license-MIT-informational?style=flat-square">	
     </a>
 </p>
 
